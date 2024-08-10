@@ -6,7 +6,7 @@
 }
 
 .why-choose-us-heading{
-    margin-top: 70px;
+    margin-top: 50px;
 }
 
 .why-choose-us-container{
@@ -37,10 +37,18 @@
     display: flex;
 }
 
+.header-discription-container{
+    width: 50%;
+}
+
+.header-img-container{
+    width: 50%;
+}
+
 .header-img{
- height: 350px; 
- width: 500px;  
- border: 5px solid #f3d2c1;
+ height: 250px; 
+ width: 400px;  
+ border: 10px solid #f3d2c1;
  display: block;
  margin: 20px auto;
 }
