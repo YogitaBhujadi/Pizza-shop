@@ -6,5 +6,41 @@
 }
 
 .why-choose-us-heading{
-    margin: 70px 0px;
+    margin-top: 70px;
+}
+
+.why-choose-us-container{
+    display:flex;
+    justify-content: space-around;
+    background-color: #ffc6c7;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.why-choose-us-card{
+    background-color: #fef6e4;
+    width: 190px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.why-choose-us-img{
+    height: 60px;
+    display: block;
+    margin: 10px auto;
+
+}
+
+.header-section{
+    display: flex;
+}
+
+.header-img{
+ height: 350px; 
+ width: 500px;  
+ border: 5px solid #f3d2c1;
+ display: block;
+ margin: 20px auto;
 }

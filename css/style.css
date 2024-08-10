@@ -1,6 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kalnia+Glaze:wght@100..700&family=Pacifico&display=swap');
+
 .body {
-    background-color: #faeee7;
+    background-color:#fef6e4;
+    margin: 0px;
+    padding: 0px;
 }
+
+.dancing-script{
+    font-family: 'Dancing script';
+}
+
 
 .bg-light{
     background-color:#faeee7;
