@@ -1,7 +1,7 @@
+
 .menu-card{
 background-color: white;
 width: 200px;
-height: 350px;
 padding: 10px;
 margin: 10px;
 border-radius: 10px;
@@ -49,5 +49,11 @@ margin: 10px auto;
     transition: 0.5px;
     border-radius: 25px;
     cursor: pointer;
+}
+
+.menus-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
   
