@@ -12,13 +12,13 @@
 .why-choose-us-container{
     display:flex;
     justify-content: space-around;
-    background-color: #ffc6c7;
+    background-color: #f3d2c1;
     margin: 20px 0;
     padding: 20px;
 }
 
 .why-choose-us-card{
-    background-color: #fef6e4;
+    background-color: white;
     width: 190px;
     height: 200px;
     padding: 10px;

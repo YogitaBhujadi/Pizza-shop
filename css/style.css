@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kalnia+Glaze:wght@100..700&family=Pacifico&display=swap');
 
 .body {
-    background-color:#f3d2c1;
+    background-color:#fef6e4;
     margin: 0px;
     padding: 0px;
 }
@@ -60,4 +60,8 @@
 
 .no-underline{
     text-decoration: none;
+}
+
+.fs-50{
+    font-size: 50px;
 }
