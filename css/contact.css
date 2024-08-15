@@ -1,0 +1,50 @@
+.contact-feedback{
+    display: flex;
+    margin-top: 40px;
+   
+    justify-content: space-evenly;
+    
+}
+
+.conatcdiv{
+    margin-top: 5px;
+}
+
+.nounderline{
+    text-decoration: none;
+    color:black;
+}
+   
+
+.fimg{
+    height: 30px;
+}
+
+.feedback{
+    color:black;
+    font-size: 15px;
+  
+}
+
+.follow{
+    color: rgb(15, 0, 0);
+    margin-left: 40px;
+}
+
+.buy-btn{
+
+    color:black;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 50px;
+    margin-top: 7px;
+    border:1px solid #0f0e17;
+    cursor: pointer;
+    
+}
+
+.lastline{
+    color: black;
+    margin-top: 50px;
+    font-size: 15px;
+}
