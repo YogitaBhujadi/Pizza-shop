@@ -7,7 +7,8 @@
 
 ---
 ### Homepage User Interface:
-![Home page](./images/.png)
+![Home page](./images/![Screenshot_15-8-2024_174424_](https://github.com/user-attachments/assets/5f91655a-8523-49ec-9345-186f1e689394)
+)
 
 ---
 
