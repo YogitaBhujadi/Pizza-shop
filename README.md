@@ -7,7 +7,7 @@
 
 ---
 ### Homepage User Interface:
-![Home page](./images/Screenshot%20(1).jpeg)
+![Home page](./images/Screenshot (1).jpeg)
 
 ---
 
