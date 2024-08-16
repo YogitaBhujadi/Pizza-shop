@@ -12,8 +12,8 @@
 ---
 
 ## Create profile to made member of Pizzeria 😊
-![login](./images/
+![login](./images/Screenshot%20(4).jpeg)
 
 ---
 ## Avalible Pizza category with its description:
-![menus](./images/)
+![menus](./images/Screenshot%20(2).jpeg)
