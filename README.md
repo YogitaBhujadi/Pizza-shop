@@ -7,13 +7,13 @@
 
 ---
 ### Homepage User Interface:
-![Home page](./images/![Screenshot_15-8-2024_174424_])
+![Home page](./images/Screenshot%20(1).jpeg)
 
 ---
 
 ## Create profile to made member of Pizzeria 😊
-![login](./images/order.png)
+![login](./images/
 
 ---
 ## Avalible Pizza category with its description:
-![menus](./images/menus.png)
+![menus](./images/)
